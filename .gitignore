@@ -1,5 +1,4 @@
 pretrained_models/
-photos/interpolated_frames/
 .venv/
 **/__pycache__
 **/.DS_Store
